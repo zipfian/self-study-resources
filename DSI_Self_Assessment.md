@@ -188,7 +188,7 @@ print list_length_words
 
 # More Advanced Python Challenges
 
-Practice, practice, practice: we encourage you to work through these challenges.
+Practice, practice, practice: we encourage you to work through these challenges. If you get stuck, a great tool for visually debugging your code is the [Python Tutor](http://pythontutor.com/visualize.html#mode=edit). Simply paste your code, click the `Visualize Execution` button, and step through your code line by line by repeatedly clicking the `Forward>` button.
 
 ## Challenge 1
 
